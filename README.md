@@ -8,7 +8,7 @@ This repository contains examples demonstrating Django signals behavior (synchro
 1. Open your terminal or Git Bash.
 2. Clone the new repository to your local machine:
 
-#bash git clone https://github.com/<your-username>/django-signals-python-class.git
+#bash git clone https://github.com/<https://github.com/gaurharsh>/django-signals-python-class.git
 
 3. Navigate into the repository:
  #cd django-signals-python-class
