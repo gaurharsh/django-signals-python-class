@@ -17,7 +17,7 @@ This repository contains examples demonstrating Django signals behavior (synchro
 - **Django and Python
 ## Documentation
 
-[Documentation](https://linktodocumentation)
+[Documentation](https://github.com/gaurharsh/django-signals-python-class/wiki)
 
 
 ## Badges
